@@ -2,7 +2,7 @@ import os
 import json
 
 # 在这里定义GitHub用户名和仓库名称
-GITHUB_USERNAME = 'yixiu001'
+GITHUB_USERNAME = 'Slapq'
 GITHUB_REPOSITORY = 'Figurebed'
 
 def generate_index_html(root_dir):
